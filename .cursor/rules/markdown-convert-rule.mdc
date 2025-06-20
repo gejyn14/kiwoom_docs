@@ -7,3 +7,4 @@ alwaysApply: true
 - Ignore code example from what i paste
 - Include the json request/response example though.
 - Start from the very end of the file, since it is just attaching.
+- Don't summarize what you did after appending to the markdown file.
